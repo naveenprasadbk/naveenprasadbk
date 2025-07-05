@@ -5,7 +5,7 @@
   <a href="https://naveenprasad.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Click_here-blue?style=flat-square&logo=google-chrome"></a>
   <a href="mailto:naveenprasadbk@gmail.com"><img src="https://img.shields.io/badge/Gmail-naveenprasadbk@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/naveenprasadbk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/naveenprasadbk"><img src="https://img.shields.io/github/followers/naveenprasadbk?label=Follow&style=social"></a>
+  <!--<a href="https://github.com/naveenprasadbk"><img src="https://img.shields.io/github/followers/naveenprasadbk?label=Follow&style=social"></a>-->
 </p>
 
 ---
@@ -55,14 +55,14 @@
 
 ---
 
-### 📈 GitHub Stats
+<!--### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveenprasadbk&show_icons=true&theme=tokyonight" alt="Naveen's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenprasadbk&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 ### 🤝 Let's Connect!
@@ -76,5 +76,6 @@ If you're a fellow tech enthusiast, recruiter, or just someone curious — feel 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=echo+%22Still+learning.+Always+coding.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Still+learning.+Always+coding." alt="Typing SVG" />
 </p>
+
