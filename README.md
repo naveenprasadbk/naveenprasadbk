@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" alt="coding" style="vertical-align: middle;"/>
-  <span style="font-size: 28px; font-weight: bold;"> Hi 👋, I'm Naveen Prasad </span>
-</p>
+<h1 align="center">Hi 👋, I'm Naveen Prasad</h1>
 <h3 align="center">A tech enthusiast who loves to Code.</h3>
 
 <p align="center">
