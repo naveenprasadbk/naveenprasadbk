@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=00F3B6&center=true&vCenter=true&width=440&lines=Loading...;Loading....;Loading.....;Welcome+to+my+GitHub!+👋" alt="Loading animation" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Naveen Prasad</h1>
 <h3 align="center">A tech enthusiast who loves to Code.</h3>
 
