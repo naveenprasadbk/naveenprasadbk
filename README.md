@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00C3FF&center=true&vCenter=true&width=435&lines=Initializing+profile...;Loading+skills...;Launching+projects...;Hi%2C+I'm+Naveen+Prasad+🚀" alt="Loading animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Naveen Prasad</h1>
