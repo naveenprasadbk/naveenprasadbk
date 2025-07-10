@@ -3,22 +3,22 @@
 
 <p align="center">
   <a href="https://naveenprasad.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-naveenprasad.lovable.app-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-naveenprasad.lovable.app-0A66C2?style=flat&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="mailto:naveenprasadbk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-naveenprasadbk@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-naveenprasadbk@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/naveenprasadbk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-naveenprasadbk-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-naveenprasadbk-0077B5?style=flat&logo=LinkedIn&logoColor=white">
   </a>
 </p>
+
 <!--<p align="center">
   <a href="https://naveenprasad.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Click_here-blue?style=flat-square&logo=google-chrome"></a>
   <a href="mailto:naveenprasadbk@gmail.com"><img src="https://img.shields.io/badge/Gmail-naveenprasadbk@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/naveenprasadbk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin"></a>
-  <!--<a href="https://github.com/naveenprasadbk"><img src="https://img.shields.io/github/followers/naveenprasadbk?label=Follow&style=social"></a>-->
+  <a href="https://github.com/naveenprasadbk"><img src="https://img.shields.io/github/followers/naveenprasadbk?label=Follow&style=social"></a>
 </p>-->
-
 ---
 
 ### 🚀 About Me
